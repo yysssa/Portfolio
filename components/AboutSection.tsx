@@ -2,9 +2,7 @@ import { Palette, GraduationCap, Award } from "lucide-react";
 
 const skills = [
   "UI Design",
-  "UX Research",
   "Figma",
-  "Adobe XD",
   "Prototyping",
   "Wireframing",
   "User Testing",
@@ -25,7 +23,7 @@ const education = [
   {
     school: "New Era University",
     degree: "Bachelor's in Information Technology",
-    year: "2023 - 2027",
+    year: "2023 - present",
   },
 ];
 
@@ -103,3 +101,4 @@ const AboutSection = () => {
 };
 
 export default AboutSection;
+
